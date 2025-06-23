@@ -1,0 +1,3656 @@
+[
+    {
+        "id":376,
+        "descricao":" SOLU\u00c7AO DERMATOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1,
+        "descricao":"ADESIVO TRANSDERMICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1056,
+        "descricao":"ADESIVO\/ TIRA\/ PATCH",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":925,
+        "descricao":"ADESIVO\/ TIRA\/ PATCH",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":926,
+        "descricao":"AEROSOL",
+        "codFormaFarmaceutica":3,
+        "formaFarmaceutica":"Aerossol"
+    },
+    {
+        "id":383,
+        "descricao":"AEROSSOL",
+        "codFormaFarmaceutica":3,
+        "formaFarmaceutica":"Aerossol"
+    },
+    {
+        "id":3,
+        "descricao":"AEROSSOL NASAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":2,
+        "descricao":"AEROSSOL ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":4,
+        "descricao":"AEROSSOL OTOLOGICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":6,
+        "descricao":"AEROSSOL TOPICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":5,
+        "descricao":"AEROSSOL VAGINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":7,
+        "descricao":"ANEL VAGINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":967,
+        "descricao":"Adesivo",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":946,
+        "descricao":"Anel",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":8,
+        "descricao":"BARRA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1066,
+        "descricao":"BARRA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":9,
+        "descricao":"BASTAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":905,
+        "descricao":"BASTAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":10,
+        "descricao":"BITAB",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":11,
+        "descricao":"BLOCO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":968,
+        "descricao":"Barra",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":947,
+        "descricao":"Bast\u00e3o",
+        "codFormaFarmaceutica":7,
+        "formaFarmaceutica":"Bast\u00e3o"
+    },
+    {
+        "id":354,
+        "descricao":"CAPSULA",
+        "codFormaFarmaceutica":24,
+        "formaFarmaceutica":"Cápsula"
+    },
+    {
+        "id":12,
+        "descricao":"CAPSULA + COMPRIMIDO REVESTIDO + CAPSULA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":13,
+        "descricao":"CAPSULA AMILACEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":14,
+        "descricao":"CAPSULA AP",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":899,
+        "descricao":"CAPSULA DE ACAO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":15,
+        "descricao":"CAPSULA DE LIBERACAO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":365,
+        "descricao":"CAPSULA GELATINOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":607,
+        "descricao":"CAPSULA GELATINOSA COM MICROEMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":612,
+        "descricao":"CAPSULA GELATINOSA COM MICROEMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":16,
+        "descricao":"CAPSULA GELATINOSA COM MICROGRANULOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":17,
+        "descricao":"CAPSULA GELATINOSA DE DESINTEGRACAO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":28,
+        "descricao":"CAPSULA GELATINOSA DURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":908,
+        "descricao":"CAPSULA GELATINOSA DURA + COMPRIMIDO REVESTIDO + CAPSULA GELATINOSA DURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":32,
+        "descricao":"CAPSULA GELATINOSA DURA AMB",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":21,
+        "descricao":"CAPSULA GELATINOSA DURA AMB DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":30,
+        "descricao":"CAPSULA GELATINOSA DURA AMB INC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":19,
+        "descricao":"CAPSULA GELATINOSA DURA AMB INC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":24,
+        "descricao":"CAPSULA GELATINOSA DURA AMB INC MCGRAN",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":26,
+        "descricao":"CAPSULA GELATINOSA DURA AMB MCGRAN",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":633,
+        "descricao":"CAPSULA GELATINOSA DURA COM A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":827,
+        "descricao":"CAPSULA GELATINOSA DURA COM A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":828,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":634,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":829,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":635,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":636,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":830,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":637,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":831,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":832,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":638,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROEMULSAO DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":833,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":639,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":918,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE DESINTREG. GRADUAL+CAP. GELAT. DURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":834,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":640,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":641,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":835,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":836,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":642,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":837,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":643,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":616,
+        "descricao":"CAPSULA GELATINOSA DURA COM MICROGRANULOS DE LIBERA\u00c7\u00c3O MODIFICADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":890,
+        "descricao":"CAPSULA GELATINOSA DURA COM PO PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":838,
+        "descricao":"CAPSULA GELATINOSA DURA COM PO PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":645,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":839,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":646,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":840,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":647,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":841,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":842,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":648,
+        "descricao":"CAPSULA GELATINOSA DURA DE DESINTEGRA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":843,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":649,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":844,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":650,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":651,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":845,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":846,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":652,
+        "descricao":"CAPSULA GELATINOSA DURA DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":29,
+        "descricao":"CAPSULA GELATINOSA DURA INC INC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":18,
+        "descricao":"CAPSULA GELATINOSA DURA INC INC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":23,
+        "descricao":"CAPSULA GELATINOSA DURA INC INC MCGRAN",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":33,
+        "descricao":"CAPSULA GELATINOSA DURA OPC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":22,
+        "descricao":"CAPSULA GELATINOSA DURA OPC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":31,
+        "descricao":"CAPSULA GELATINOSA DURA OPC INC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":20,
+        "descricao":"CAPSULA GELATINOSA DURA OPC INC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":25,
+        "descricao":"CAPSULA GELATINOSA DURA OPC INC MCGRAN",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":27,
+        "descricao":"CAPSULA GELATINOSA DURA OPC MCGRAN",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":34,
+        "descricao":"CAPSULA GELATINOSA MOLE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":48,
+        "descricao":"CAPSULA GELATINOSA MOLE AMB",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":38,
+        "descricao":"CAPSULA GELATINOSA MOLE AMB DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":46,
+        "descricao":"CAPSULA GELATINOSA MOLE AMB INC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":36,
+        "descricao":"CAPSULA GELATINOSA MOLE AMB INC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":41,
+        "descricao":"CAPSULA GELATINOSA MOLE AMB INC MCEMULSIONADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":43,
+        "descricao":"CAPSULA GELATINOSA MOLE AMB MCEMULSIONADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":653,
+        "descricao":"CAPSULA GELATINOSA MOLE COM A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":847,
+        "descricao":"CAPSULA GELATINOSA MOLE COM A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":848,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":654,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":655,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":849,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":850,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":656,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":851,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":657,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":658,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":852,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROEMULSAO DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":853,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":659,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":854,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":660,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":855,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":661,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":856,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":662,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":857,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":663,
+        "descricao":"CAPSULA GELATINOSA MOLE COM MICROGRANULOS DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":664,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":858,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":859,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":665,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":860,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":666,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":861,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":667,
+        "descricao":"CAPSULA GELATINOSA MOLE DE DESINTEGRA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":668,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":862,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":669,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":863,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":670,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":864,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":671,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":865,
+        "descricao":"CAPSULA GELATINOSA MOLE DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":45,
+        "descricao":"CAPSULA GELATINOSA MOLE INC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":35,
+        "descricao":"CAPSULA GELATINOSA MOLE INC INC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":40,
+        "descricao":"CAPSULA GELATINOSA MOLE INC INC MCEMULSIONADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":49,
+        "descricao":"CAPSULA GELATINOSA MOLE OPC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":39,
+        "descricao":"CAPSULA GELATINOSA MOLE OPC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":47,
+        "descricao":"CAPSULA GELATINOSA MOLE OPC INC",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":37,
+        "descricao":"CAPSULA GELATINOSA MOLE OPC INC DES GRAD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":42,
+        "descricao":"CAPSULA GELATINOSA MOLE OPC INC MCEMULSIONADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":44,
+        "descricao":"CAPSULA GELATINOSA MOLE OPC MCEMULSIONADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":50,
+        "descricao":"CAPSULA PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":51,
+        "descricao":"CAPTAB",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":234,
+        "descricao":"CARTAO IMPREGNADO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":52,
+        "descricao":"CARTELA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":53,
+        "descricao":"CERA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":54,
+        "descricao":"CHIP",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":55,
+        "descricao":"CIGARRO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":56,
+        "descricao":"CODIGO NAO INFORMADO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":414,
+        "descricao":"COLIRIO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":57,
+        "descricao":"COLODIO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":58,
+        "descricao":"COLUTORIO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":59,
+        "descricao":"COMPRESSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":604,
+        "descricao":"COMPRIMIDO",
+        "codFormaFarmaceutica":14,
+        "formaFarmaceutica":"Comprimido"
+    },
+    {
+        "id":60,
+        "descricao":"COMPRIMIDO + DRAGEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":61,
+        "descricao":"COMPRIMIDO + DRAGEA + DRAGEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":62,
+        "descricao":"COMPRIMIDO + OVULO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":63,
+        "descricao":"COMPRIMIDO CAMADA DUPLA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":65,
+        "descricao":"COMPRIMIDO CAMADA QUADRUPLA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":64,
+        "descricao":"COMPRIMIDO CAMADA TRIPLA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":866,
+        "descricao":"COMPRIMIDO COM REVESTIMENTO ENTERICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":672,
+        "descricao":"COMPRIMIDO COM REVESTIMENTO ENTERICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":66,
+        "descricao":"COMPRIMIDO DE ABSORCAO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":867,
+        "descricao":"COMPRIMIDO DE A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":673,
+        "descricao":"COMPRIMIDO DE A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":67,
+        "descricao":"COMPRIMIDO DE DESINTEGRACAO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":909,
+        "descricao":"COMPRIMIDO DE DESINTEGRA\u00c7AO LENTA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":68,
+        "descricao":"COMPRIMIDO DE DISSOLU\u00c7AO INSTANTANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":352,
+        "descricao":"COMPRIMIDO DE LIBERACAO PROLONGADA",
+        "codFormaFarmaceutica":16,
+        "formaFarmaceutica":"Comprimido de liberação prolongada"
+    },
+    {
+        "id":70,
+        "descricao":"COMPRIMIDO DISPERSIVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":71,
+        "descricao":"COMPRIMIDO EFERVESCENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":72,
+        "descricao":"COMPRIMIDO MASTIGAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1027,
+        "descricao":"COMPRIMIDO MASTIG\u00c1VEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":889,
+        "descricao":"COMPRIMIDO OFTALMOLOGICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":73,
+        "descricao":"COMPRIMIDO OFTALMOLOGICO + SOLU\u00c7AO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":74,
+        "descricao":"COMPRIMIDO ORODISPERSIVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":75,
+        "descricao":"COMPRIMIDO PARA IMPLANTACAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":76,
+        "descricao":"COMPRIMIDO REVESTIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":77,
+        "descricao":"COMPRIMIDO REVESTIDO (ENGLOBADO)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":868,
+        "descricao":"COMPRIMIDO REVESTIDO DE A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":674,
+        "descricao":"COMPRIMIDO REVESTIDO DE A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":675,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":869,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":676,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":870,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":871,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":677,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":872,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":678,
+        "descricao":"COMPRIMIDO REVESTIDO DE DESINTEGRA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":876,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERACAO LENTA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":69,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":15,
+        "formaFarmaceutica":"Comprimido de liberação controlada"
+    },
+    {
+        "id":874,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7AO CONTROLADA",
+        "codFormaFarmaceutica":15,
+        "formaFarmaceutica":"Comprimido de liberação controlada"
+    },
+    {
+        "id":351,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":353,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":873,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7AO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":682,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7AO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":920,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBERA\u00c7\u00c3O PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":681,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBREA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":875,
+        "descricao":"COMPRIMIDO REVESTIDO DE LIBREA\u00c7AO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":907,
+        "descricao":"COMPRIMIDO REVESTIDO ENGLOBADO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":78,
+        "descricao":"COMPRIMIDO REVESTIDO GELATINIZADO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":79,
+        "descricao":"COMPRIMIDO SIMPLES",
+        "codFormaFarmaceutica":14,
+        "formaFarmaceutica":"Comprimido"
+    },
+    {
+        "id":349,
+        "descricao":"COMPRIMIDO SIMPLES + CAPSULA GELATINOSA DURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":80,
+        "descricao":"COMPRIMIDO SIMPLES + COMPRIMIDO COMBINADO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":917,
+        "descricao":"COMPRIMIDO SIMPLES + COMPRIMIDO REVESTIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":919,
+        "descricao":"COMPRIMIDO SIMPLES + COMPRIMIDO REVESTIDO DE LIBERA\u00c7\u00c3O PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":81,
+        "descricao":"COMPRIMIDO SOLUVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":82,
+        "descricao":"COMPRIMIDO SUB-LINGUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":83,
+        "descricao":"COMPRIMIDO VAGINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":350,
+        "descricao":"COMPRIMIDOS LAQUEADOS ENTERICOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":84,
+        "descricao":"CONCENTRADO EMULSIONAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":399,
+        "descricao":"CPHD",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":85,
+        "descricao":"CREME",
+        "codFormaFarmaceutica":21,
+        "formaFarmaceutica":"Creme"
+    },
+    {
+        "id":87,
+        "descricao":"CREME DERMATOLOGICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":88,
+        "descricao":"CREME OFTALMICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":86,
+        "descricao":"CREME ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":89,
+        "descricao":"CREME VAGINAL",
+        "codFormaFarmaceutica":22,
+        "formaFarmaceutica":"Creme vaginal"
+    },
+    {
+        "id":395,
+        "descricao":"CREMOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":90,
+        "descricao":"CRISTAIS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":91,
+        "descricao":"CURATIVO(APOSITO)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":969,
+        "descricao":"Colut\u00f3rio",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":953,
+        "descricao":"Comprimido",
+        "codFormaFarmaceutica":14,
+        "formaFarmaceutica":"Comprimido"
+    },
+    {
+        "id":1011,
+        "descricao":"Comprimido Efervescente",
+        "codFormaFarmaceutica":17,
+        "formaFarmaceutica":"Comprimido efervescente"
+    },
+    {
+        "id":1001,
+        "descricao":"Comprimido Mastig\u00e1vel",
+        "codFormaFarmaceutica":18,
+        "formaFarmaceutica":"Comprimido mastig\u00e1vel"
+    },
+    {
+        "id":972,
+        "descricao":"Comprimido Orodispers\u00edvel ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":957,
+        "descricao":"Comprimido Revestido ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1037,
+        "descricao":"Comprimido Revestido de Libera\u00e7\u00e3o Modificada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":949,
+        "descricao":"Comprimido Revestido de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":16,
+        "formaFarmaceutica":"Comprimido de liberação controlada"
+    },
+    {
+        "id":1038,
+        "descricao":"Comprimido Revestido de Libera\u00e7\u00e3o Prolongada 24 horas ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":982,
+        "descricao":"Comprimido Revestido de Libera\u00e7\u00e3o Retardada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":986,
+        "descricao":"Comprimido de Libera\u00e7\u00e3o Modificada ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":973,
+        "descricao":"Comprimido de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":16,
+        "formaFarmaceutica":"Comprimido de libera\u00e7\u00e3o prolongada"
+    },
+    {
+        "id":1036,
+        "descricao":"Comprimido de Libera\u00e7\u00e3o Prolongada 24 horas",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1015,
+        "descricao":"Comprimido para Solu\u00e7\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1008,
+        "descricao":"Comprimido para Suspens\u00e3o",
+        "codFormaFarmaceutica":19,
+        "formaFarmaceutica":"Comprimido para  suspens\u00e3o"
+    },
+    {
+        "id":961,
+        "descricao":"Creme",
+        "codFormaFarmaceutica":21,
+        "formaFarmaceutica":"Creme"
+    },
+    {
+        "id":355,
+        "descricao":"C\u00c1PSULA",
+        "codFormaFarmaceutica":21,
+        "formaFarmaceutica":"Cápsula"
+    },
+    {
+        "id":941,
+        "descricao":"C\u00c1PSULA DURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":924,
+        "descricao":"C\u00c1PSULA DURA DE LIBERA\u00c7\u00c3O PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":945,
+        "descricao":"C\u00c1PSULA MOLE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":984,
+        "descricao":"C\u00e1psula ",
+        "codFormaFarmaceutica":24,
+        "formaFarmaceutica":"C\u00e1psula"
+    },
+    {
+        "id":1048,
+        "descricao":"C\u00e1psula Dura de Libera\u00e7\u00e3o Modificada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":991,
+        "descricao":"C\u00e1psula Dura de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":25,
+        "formaFarmaceutica":"C\u00e1psula dura de libera\u00e7\u00e3o prolongada"
+    },
+    {
+        "id":950,
+        "descricao":"C\u00e1psula Dura de Libera\u00e7\u00e3o Retardada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":985,
+        "descricao":"C\u00e1psula Mole",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1007,
+        "descricao":"C\u00e1psula Mole de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1002,
+        "descricao":"C\u00e1psula Mole de Libera\u00e7\u00e3o Retardada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":956,
+        "descricao":"C\u00e1psula dura",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":92,
+        "descricao":"DECOCTO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":93,
+        "descricao":"DISCO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":94,
+        "descricao":"DRAGEA + DRAGEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":96,
+        "descricao":"DRAGEA COM REVESTIMENTO ENTERICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":95,
+        "descricao":"DRAGEA DE A\u00c7AO PROLONGADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":877,
+        "descricao":"DRAGEA DE DESINTEGRACAO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":683,
+        "descricao":"DRAGEA DE DESINTEGRACAO CONTROLADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":878,
+        "descricao":"DRAGEA DE DESINTEGRACAO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":684,
+        "descricao":"DRAGEA DE DESINTEGRACAO GRADUAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":97,
+        "descricao":"DRAGEA DE DESINTEGRACAO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":879,
+        "descricao":"DRAGEA DE DESINTEGRACAO PROGRAMADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":686,
+        "descricao":"DRAGEA DE DESINTEGRACAO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":880,
+        "descricao":"DRAGEA DE DESINTEGRACAO RETARDADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":98,
+        "descricao":"DRAGEA SIMPLES",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":605,
+        "descricao":"DR\u00c1GEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":99,
+        "descricao":"DUCHA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1041,
+        "descricao":"Dispers\u00e3o para infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":995,
+        "descricao":"Dispositivo Intra-uterino",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":400,
+        "descricao":"EGV COM ESTERILIZA\u00c7\u00c3O FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":401,
+        "descricao":"EGV SEM ESTERILIZA\u00c7\u00c3O FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":100,
+        "descricao":"ELETRODIN",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":101,
+        "descricao":"ELIXIR",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":102,
+        "descricao":"EMPLASTO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":372,
+        "descricao":"EMULGEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":373,
+        "descricao":"EMULSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":103,
+        "descricao":"EMULSAO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":881,
+        "descricao":"EMULSAO NASAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":687,
+        "descricao":"EMULSAO NASAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":104,
+        "descricao":"EMULSAO ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":688,
+        "descricao":"EMULSAO OTOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":882,
+        "descricao":"EMULSAO OTOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":105,
+        "descricao":"EMULSAO TOPICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1030,
+        "descricao":"EMULS\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":935,
+        "descricao":"EMULS\u00c3O OFT\u00c1LMICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":106,
+        "descricao":"ENEMA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":402,
+        "descricao":"EPV COM ESTERILIZA\u00c7\u00c3O FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":403,
+        "descricao":"EPV SEM ESTERILIZA\u00c7\u00c3O FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":915,
+        "descricao":"ESCAMAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":107,
+        "descricao":"ESMALTE DE UNHA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":108,
+        "descricao":"ESPECIES(VEGETAIS)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":109,
+        "descricao":"ESPIRAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":110,
+        "descricao":"ESPONJA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":374,
+        "descricao":"ESPONJA ESTERIL DE GELATINA ABSORVIVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":927,
+        "descricao":"ESPUMA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1057,
+        "descricao":"ESPUMA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":404,
+        "descricao":"EXTRATO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":111,
+        "descricao":"EXTRATO FLUIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":112,
+        "descricao":"EXTRATO SECO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1046,
+        "descricao":"Elixir",
+        "codFormaFarmaceutica":28,
+        "formaFarmaceutica":"Elixir"
+    },
+    {
+        "id":1026,
+        "descricao":"Emplasto",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":990,
+        "descricao":"Emuls\u00e3o ",
+        "codFormaFarmaceutica":33,
+        "formaFarmaceutica":"Emuls\u00e3o oral"
+    },
+    {
+        "id":958,
+        "descricao":"Emuls\u00e3o Gotas ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1009,
+        "descricao":"Emuls\u00e3o Injet\u00e1vel ",
+        "codFormaFarmaceutica":31,
+        "formaFarmaceutica":"Emuls\u00e3o injet\u00e1vel"
+    },
+    {
+        "id":1022,
+        "descricao":"Emuls\u00e3o Spray",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1034,
+        "descricao":"Emuls\u00e3o p\/ Infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":981,
+        "descricao":"Esmalte",
+        "codFormaFarmaceutica":35,
+        "formaFarmaceutica":"Esmalte"
+    },
+    {
+        "id":1047,
+        "descricao":"Espuma ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":613,
+        "descricao":"FILME DE POLIETILENO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":608,
+        "descricao":"FILME PLASTICO ABSORVENTE\/CELULOSE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":113,
+        "descricao":"FILMTAB GELATINOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":384,
+        "descricao":"FIO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":385,
+        "descricao":"FITA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":114,
+        "descricao":"FITA(GLICO-FITA)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":394,
+        "descricao":"FLUIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":914,
+        "descricao":"FRASCO VIDRO INCOLOR NEBULIZADOR",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1032,
+        "descricao":"Filme",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":115,
+        "descricao":"GAZE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":116,
+        "descricao":"GAZES COMPRIMIDOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":117,
+        "descricao":"GEL",
+        "codFormaFarmaceutica":36,
+        "formaFarmaceutica":"Gel"
+    },
+    {
+        "id":366,
+        "descricao":"GEL CREME",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":883,
+        "descricao":"GEL DERMATOLOGICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":689,
+        "descricao":"GEL DERMATOLOGICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":118,
+        "descricao":"GEL OFTALMICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":119,
+        "descricao":"GEL VAGINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":120,
+        "descricao":"GELEIA ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":121,
+        "descricao":"GELEIA TOPICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":902,
+        "descricao":"GELEIA VAGINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":904,
+        "descricao":"GELEIA VAGINAL E GEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":405,
+        "descricao":"GEL\u00c9IA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":127,
+        "descricao":"GLOBULO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":122,
+        "descricao":"GOMA DE MASCAR",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1052,
+        "descricao":"GRANULADO",
+        "codFormaFarmaceutica":43,
+        "formaFarmaceutica":"Granulado"
+    },
+    {
+        "id":123,
+        "descricao":"GRANULADO",
+        "codFormaFarmaceutica":43,
+        "formaFarmaceutica":"Granulado"
+    },
+    {
+        "id":124,
+        "descricao":"GRANULADO EFERVESCENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":356,
+        "descricao":"GRANULADO PARA PREPARACAO EXTEMPORANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":125,
+        "descricao":"GRANULADO SIMPLES",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":126,
+        "descricao":"GRANULO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":960,
+        "descricao":"Gel",
+        "codFormaFarmaceutica":36,
+        "formaFarmaceutica":"Gel"
+    },
+    {
+        "id":966,
+        "descricao":"Gl\u00f3bulo",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1043,
+        "descricao":"Goma de Mascar",
+        "codFormaFarmaceutica":42,
+        "formaFarmaceutica":"Goma de mascar"
+    },
+    {
+        "id":997,
+        "descricao":"Granulado ",
+        "codFormaFarmaceutica":43,
+        "formaFarmaceutica":"Granulado"
+    },
+    {
+        "id":1040,
+        "descricao":"Granulado Orodispers\u00edvel",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":999,
+        "descricao":"Granulado Revestido ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1042,
+        "descricao":"Granulado Revestido de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1055,
+        "descricao":"Granulado Revestido de Libera\u00e7\u00e3o Retardada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1000,
+        "descricao":"Granulado para Solu\u00e7\u00e3o ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1020,
+        "descricao":"Granulado para Suspens\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1064,
+        "descricao":"G\u00e1s",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1024,
+        "descricao":"G\u00e9is com Esteriliza\u00e7\u00e3o Terminal ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1025,
+        "descricao":"G\u00e9is com Prepara\u00e7\u00e3o Ass\u00e9ptica",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":128,
+        "descricao":"HASTES HIGIENICOS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":129,
+        "descricao":"IMPLANTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":130,
+        "descricao":"INALANTES",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":131,
+        "descricao":"INFUSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":911,
+        "descricao":"INJE\u00c7\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":396,
+        "descricao":"ISCA - BLOCO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":913,
+        "descricao":"ISCA EM PASTA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":397,
+        "descricao":"ISCA GRANULADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":134,
+        "descricao":"ISCA PO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":900,
+        "descricao":"ISCA SOLIDA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":965,
+        "descricao":"Implante",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":386,
+        "descricao":"LENCO DE PAPEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":135,
+        "descricao":"LENCO DE PAPEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":387,
+        "descricao":"LENCO TECIDO NAO TECIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":136,
+        "descricao":"LENCO UMEDECIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":928,
+        "descricao":"LEN\u00c7O N\u00c3O TECIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1058,
+        "descricao":"LEN\u00c7O TECIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":929,
+        "descricao":"LEN\u00c7O TECIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":137,
+        "descricao":"LICOR",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":138,
+        "descricao":"LINIMENTO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":344,
+        "descricao":"LIQUIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":139,
+        "descricao":"LIQUIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":345,
+        "descricao":"LIQUIDO INALANTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":921,
+        "descricao":"LIQUIDO INALANTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":140,
+        "descricao":"LIQUIDO PREMIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":141,
+        "descricao":"LIQUIDO PULVERIZAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":388,
+        "descricao":"LIQUIDO VISCOSO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":142,
+        "descricao":"LIQUIDO\/UBV",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":390,
+        "descricao":"LOCOES EMULSIONADAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":391,
+        "descricao":"LOCOES HIDROALCOOLICAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":143,
+        "descricao":"LO\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":389,
+        "descricao":"LO\u00c7AO AQUOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":144,
+        "descricao":"LO\u00c7AO EMULSIONADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":145,
+        "descricao":"LO\u00c7AO HIDROALCOOLICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":884,
+        "descricao":"LO\u00c7AO OLEOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":690,
+        "descricao":"LO\u00c7AO OLEOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":910,
+        "descricao":"L\u00c2MINA SOL\u00daVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1031,
+        "descricao":"L\u00cdQUIDA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":989,
+        "descricao":"L\u00edquido ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1065,
+        "descricao":"L\u00edquido criog\u00eanico",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":691,
+        "descricao":"MELITO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":885,
+        "descricao":"MELITO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":930,
+        "descricao":"MICROC\u00c1PSULAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1059,
+        "descricao":"MICROC\u00c1PSULAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":146,
+        "descricao":"MISTAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":610,
+        "descricao":"MOUSSE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":931,
+        "descricao":"MOUSSE\/ESPUMA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":932,
+        "descricao":"NANOSSOMAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1060,
+        "descricao":"NANOSSOMAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":382,
+        "descricao":"NAO POSSUI FORMA FISICA NO SIVS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1053,
+        "descricao":"N\u00c3O SE APLICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":147,
+        "descricao":"OLEO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":912,
+        "descricao":"OUTROS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":148,
+        "descricao":"OVULO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":609,
+        "descricao":"PADS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":617,
+        "descricao":"PALITO DE MADEIRA COM CERA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":149,
+        "descricao":"PASTA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":150,
+        "descricao":"PASTA DENTIFRICIA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":933,
+        "descricao":"PASTA DENTIF\u00cdCIA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":606,
+        "descricao":"PASTILHA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":151,
+        "descricao":"PASTILHA DROPS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":152,
+        "descricao":"PASTILHA GOMOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":153,
+        "descricao":"PASTILHA SIMPLES",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":154,
+        "descricao":"PELLETS\/ESCAMAS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":155,
+        "descricao":"PEROLA GELATINOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":156,
+        "descricao":"PEROLA NAO GELAGINOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":157,
+        "descricao":"PESSARIO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":158,
+        "descricao":"PILULA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":392,
+        "descricao":"PO COMPACTADO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":159,
+        "descricao":"PO COMPACTO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":160,
+        "descricao":"PO DE CONTATO(TRACKING POWDER)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":161,
+        "descricao":"PO DE USO TOPICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":162,
+        "descricao":"PO EFERVESCENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":348,
+        "descricao":"PO ENCAPSULADO PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":346,
+        "descricao":"PO ESTERIL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":891,
+        "descricao":"PO ESTERIL PARA SOLU\u00c7AO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":347,
+        "descricao":"PO ESTERIL PARA SOLU\u00c7AO INJETAVEL + DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":163,
+        "descricao":"PO INALANTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":164,
+        "descricao":"PO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":165,
+        "descricao":"PO INJETAVEL + DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":896,
+        "descricao":"PO INJETAVEL + SOLUCAO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":362,
+        "descricao":"PO INJETAVEL SEM DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":898,
+        "descricao":"PO LIOFILIZADO INJETAVEL + SOLUCAO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":166,
+        "descricao":"PO LIOFILO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":361,
+        "descricao":"PO LIOFILO + SOLU\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":167,
+        "descricao":"PO LIOFILO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":168,
+        "descricao":"PO LIOFILO INJETAVEL + SOLU\u00c7AO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":169,
+        "descricao":"PO LIOFILO INJETAVEL + SUSPENSAO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":364,
+        "descricao":"PO LIOFILO INJETAVEL + SUSPENSAO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":894,
+        "descricao":"PO LIOFILO ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":170,
+        "descricao":"PO LIOFILO ORAL + SOLU\u00c7AO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":892,
+        "descricao":"PO LIOFILO PARA SOLU\u00c7AO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":363,
+        "descricao":"PO LIOFILO PARA SOLU\u00c7AO PARA INFUSAO INTRAVENOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":895,
+        "descricao":"PO LIOFILO TOPICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":171,
+        "descricao":"PO LIOFILO TOPICO + SOLU\u00c7AO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":893,
+        "descricao":"PO LIOFLIO PARA SUSPENSAO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":172,
+        "descricao":"PO MOLHAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":173,
+        "descricao":"PO ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":357,
+        "descricao":"PO ORAL INSTANTANEO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":359,
+        "descricao":"PO PARA GELEIA EXTEMPORANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":174,
+        "descricao":"PO PARA PREPARA\u00c7OES EXTEMPORANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":175,
+        "descricao":"PO PARA SOLU\u00c7AO EXTEMPORANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":176,
+        "descricao":"PO PARA SOLU\u00c7AO ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":886,
+        "descricao":"PO PARA SUSPENSAO EXTEMPORANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":692,
+        "descricao":"PO PARA SUSPENSAO EXTEMPORANEA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":177,
+        "descricao":"PO PARA SUSPENSAO ORAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":358,
+        "descricao":"PO PARA SUSPENSAO ORAL EXTEMPORANE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":393,
+        "descricao":"PO SECO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":178,
+        "descricao":"PO SECO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":360,
+        "descricao":"PO SOLU\u00c7AO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":611,
+        "descricao":"POMADA",
+        "codFormaFarmaceutica":52,
+        "formaFarmaceutica":"Pomada"
+    },
+    {
+        "id":179,
+        "descricao":"POMADA BUCAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":180,
+        "descricao":"POMADA DERMATOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":182,
+        "descricao":"POMADA GINECOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":181,
+        "descricao":"POMADA OFTALMICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":183,
+        "descricao":"POMADA RETAL",
+        "codFormaFarmaceutica":55,
+        "formaFarmaceutica":"Pomada retal"
+    },
+    {
+        "id":379,
+        "descricao":"POMADA TOPICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1006,
+        "descricao":"Pasta ",
+        "codFormaFarmaceutica":49,
+        "formaFarmaceutica":"Pasta"
+    },
+    {
+        "id":955,
+        "descricao":"Pastilha",
+        "codFormaFarmaceutica":50,
+        "formaFarmaceutica":"Pastilha"
+    },
+    {
+        "id":959,
+        "descricao":"Pastilha Dura ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1005,
+        "descricao":"Pastilha Gomosa",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":962,
+        "descricao":"Pomada",
+        "codFormaFarmaceutica":52,
+        "formaFarmaceutica":"Pomada"
+    },
+    {
+        "id":1010,
+        "descricao":"Pomada oft\u00e1lmica",
+        "codFormaFarmaceutica":54,
+        "formaFarmaceutica":"Pomada oft\u00e1lmica"
+    },
+    {
+        "id":1061,
+        "descricao":"P\u00d3",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1029,
+        "descricao":"P\u00d3",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":406,
+        "descricao":"P\u00d3",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":934,
+        "descricao":"P\u00d3 EFERVERSCENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":939,
+        "descricao":"P\u00d3 LIOFILIZADO PARA SOLU\u00c7\u00c3O INJET\u00c1VEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":938,
+        "descricao":"P\u00d3 PARA SOLU\u00c7\u00c3O INJET\u00c1VEL + SOLU\u00c7\u00c3O DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":983,
+        "descricao":"P\u00f3 ",
+        "codFormaFarmaceutica":56,
+        "formaFarmaceutica":"P\u00f3"
+    },
+    {
+        "id":1014,
+        "descricao":"P\u00f3 Efervescente",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1018,
+        "descricao":"P\u00f3 Liofilizado p\/ Suspens\u00e3o Lipossomal p\/ Infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":954,
+        "descricao":"P\u00f3 Liofilizado para Solu\u00e7\u00e3o Injet\u00e1vel",
+        "codFormaFarmaceutica":63,
+        "formaFarmaceutica":"P\u00f3 liofilizado para solu\u00e7\u00e3o injet\u00e1vel"
+    },
+    {
+        "id":1035,
+        "descricao":"P\u00f3 Liofilizado para Solu\u00e7\u00e3o para Infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":975,
+        "descricao":"P\u00f3 Liofilizado para Suspens\u00e3o Injet\u00e1vel ",
+        "codFormaFarmaceutica":64,
+        "formaFarmaceutica":"P\u00f3 liofilizado para suspens\u00e3o injet\u00e1vel"
+    },
+    {
+        "id":992,
+        "descricao":"P\u00f3 Liofilizado para Suspens\u00e3o Injet\u00e1vel de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":979,
+        "descricao":"P\u00f3 para Solu\u00e7\u00e3o ",
+        "codFormaFarmaceutica":67,
+        "formaFarmaceutica":"P\u00f3 para solu\u00e7\u00e3o"
+    },
+    {
+        "id":948,
+        "descricao":"P\u00f3 para Solu\u00e7\u00e3o Injet\u00e1vel",
+        "codFormaFarmaceutica":68,
+        "formaFarmaceutica":"P\u00f3 para solu\u00e7\u00e3o injet\u00e1vel"
+    },
+    {
+        "id":994,
+        "descricao":"P\u00f3 para Solu\u00e7\u00e3o para Infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":976,
+        "descricao":"P\u00f3 para Suspens\u00e3o",
+        "codFormaFarmaceutica":69,
+        "formaFarmaceutica":"P\u00f3 para suspens\u00e3o"
+    },
+    {
+        "id":963,
+        "descricao":"P\u00f3 para Suspens\u00e3o Injet\u00e1vel",
+        "codFormaFarmaceutica":70,
+        "formaFarmaceutica":"P\u00f3 para suspens\u00e3o injet\u00e1vel"
+    },
+    {
+        "id":1045,
+        "descricao":"P\u00f3 para Suspens\u00e3o Injet\u00e1vel de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":996,
+        "descricao":"P\u00f3 para inala\u00e7\u00e3o",
+        "codFormaFarmaceutica":66,
+        "formaFarmaceutica":"P\u00f3 para inala\u00e7\u00e3o oral"
+    },
+    {
+        "id":184,
+        "descricao":"RAZURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":185,
+        "descricao":"REPETAB",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":993,
+        "descricao":"Rasura",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":186,
+        "descricao":"SABONETE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":380,
+        "descricao":"SABONETE GEL EMOLIENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":906,
+        "descricao":"SABONETE LIQUIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":407,
+        "descricao":"SACHET",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1028,
+        "descricao":"SACH\u00ca",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":187,
+        "descricao":"SHAMPOO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":188,
+        "descricao":"SISTEMA INTRA-UTERINO (SIU)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":189,
+        "descricao":"SISTEMA TRANSURETRAL ESTERIL DE DOSE UNICA COM PELLETS",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":368,
+        "descricao":"SOLIDA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":367,
+        "descricao":"SOLIDO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":903,
+        "descricao":"SOLUCAO CAPILAR",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":190,
+        "descricao":"SOLU\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":381,
+        "descricao":"SOLU\u00c7AO AEROSOL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":693,
+        "descricao":"SOLU\u00c7AO AQUOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":887,
+        "descricao":"SOLU\u00c7AO AQUOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":191,
+        "descricao":"SOLU\u00c7AO COM PROPELENTE (AEROSOL)",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":205,
+        "descricao":"SOLU\u00c7AO CONCENTRADA PARA HEMODIALISE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":377,
+        "descricao":"SOLU\u00c7AO DERMATOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":192,
+        "descricao":"SOLU\u00c7AO GINECOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":193,
+        "descricao":"SOLU\u00c7AO HIDROALCOOLICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":194,
+        "descricao":"SOLU\u00c7AO INJETAVEL",
+        "codFormaFarmaceutica":82,
+        "formaFarmaceutica":"Solução injetável"
+    },
+    {
+        "id":195,
+        "descricao":"SOLU\u00c7AO INJETAVEL + SOLU\u00c7AO DILUENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":196,
+        "descricao":"SOLU\u00c7AO INJETAVEL + SOLU\u00c7AO INJETAVEL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":197,
+        "descricao":"SOLU\u00c7AO INTRA-OCULAR",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":198,
+        "descricao":"SOLU\u00c7AO NASAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":369,
+        "descricao":"SOLU\u00c7AO OFTALMICA",
+        "codFormaFarmaceutica":88,
+        "formaFarmaceutica":"Solução oftálmica"
+    },
+    {
+        "id":199,
+        "descricao":"SOLU\u00c7AO OFTALMICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":888,
+        "descricao":"SOLU\u00c7AO OLEOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":694,
+        "descricao":"SOLU\u00c7AO OLEOSA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":200,
+        "descricao":"SOLU\u00c7AO ORAL",
+        "codFormaFarmaceutica":89,
+        "formaFarmaceutica":"Solução oral"
+    },
+    {
+        "id":201,
+        "descricao":"SOLU\u00c7AO ORAL CONCENTRADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":202,
+        "descricao":"SOLU\u00c7AO OTOLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":203,
+        "descricao":"SOLU\u00c7AO PARA DIALISE PERITONEAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":204,
+        "descricao":"SOLU\u00c7AO PARA HEMODIALISE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":370,
+        "descricao":"SOLU\u00c7AO PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":208,
+        "descricao":"SOLU\u00c7AO PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":206,
+        "descricao":"SOLU\u00c7AO PARA IRRIGACAO UROLOGICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":937,
+        "descricao":"SOLU\u00c7AO PARA IRRIGA\u00c7\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":207,
+        "descricao":"SOLU\u00c7AO PARA LENTES DE CONTATO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":209,
+        "descricao":"SOLU\u00c7AO PARA USO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":210,
+        "descricao":"SOLU\u00c7AO RETAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":211,
+        "descricao":"SOLU\u00c7AO TOPICA",
+        "codFormaFarmaceutica":94,
+        "formaFarmaceutica":"Solução tópica"
+    },
+    {
+        "id":1062,
+        "descricao":"SOLU\u00c7\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1050,
+        "descricao":"SOLU\u00c7\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":922,
+        "descricao":"SOLU\u00c7\u00c3O PARA DILUI\u00c7\u00c3O PARA INFUS\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":943,
+        "descricao":"SOLU\u00c7\u00c3O SPRAY",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":408,
+        "descricao":"SPGV COM ENVASE ASS\u00c9PTICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":409,
+        "descricao":"SPGV COM ESTERILIZA\u00c7\u00c3O FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":410,
+        "descricao":"SPPV COM ENVASE ASS\u00c9PTICO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":411,
+        "descricao":"SPPV COM ESTERILIZA\u00c7\u00c3O FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":412,
+        "descricao":"SPPV COM FILTRA\u00c7\u00c3O ESTERILIZANTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":413,
+        "descricao":"SPPV SEM ESTERILIZACAO FINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":371,
+        "descricao":"SPRAY",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":212,
+        "descricao":"SPRAY NASAL",
+        "codFormaFarmaceutica":94,
+        "formaFarmaceutica":"Spray  nasal"
+    },
+    {
+        "id":213,
+        "descricao":"SUPOSITORIO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":214,
+        "descricao":"SUPOSITORIO RETAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":215,
+        "descricao":"SUPOSITORIO VAGINAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":216,
+        "descricao":"SUSPENSAO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":923,
+        "descricao":"SUSPENSAO AEROSSOL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":217,
+        "descricao":"SUSPENSAO AQUOSA NASAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":378,
+        "descricao":"SUSPENSAO COM PROPELENTE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":218,
+        "descricao":"SUSPENSAO CONCENTRADA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":219,
+        "descricao":"SUSPENSAO INJETAVEL",
+        "codFormaFarmaceutica":101,
+        "formaFarmaceutica":"Suspensão injetável"
+    },
+    {
+        "id":220,
+        "descricao":"SUSPENSAO NASAL",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":221,
+        "descricao":"SUSPENSAO OFTALMICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":223,
+        "descricao":"SUSPENSAO ORAL",
+        "codFormaFarmaceutica":104,
+        "formaFarmaceutica":"Suspensão oral"
+    },
+    {
+        "id":222,
+        "descricao":"SUSPENSAO ORAL",
+        "codFormaFarmaceutica":104,
+        "formaFarmaceutica":"Suspensão oral"
+    },
+    {
+        "id":375,
+        "descricao":"SUSPENSAO ORAL\/RETAL",
+        "codFormaFarmaceutica":104,
+        "formaFarmaceutica":"Suspensão oral"
+    },
+    {
+        "id":224,
+        "descricao":"SUSPENSAO OTOLOGICA",
+        "codFormaFarmaceutica":105,
+        "formaFarmaceutica":"Suspensão otológica"
+    },
+    {
+        "id":225,
+        "descricao":"SUSPENSAO PARA INALA\u00c7AO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":226,
+        "descricao":"SUSPENSAO TOPICA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1063,
+        "descricao":"SUSPENS\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1051,
+        "descricao":"SUSPENS\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":916,
+        "descricao":"SUSPENS\u00c3O PARA NEBULIZA\u00c7\u00c3O",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":942,
+        "descricao":"SUSPEN\u00c7\u00c3O SPRAY",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":951,
+        "descricao":"Solu\u00e7\u00e3o ",
+        "codFormaFarmaceutica":89,
+        "formaFarmaceutica":"Solu\u00e7\u00e3o oral"
+    },
+    {
+        "id":980,
+        "descricao":"Solu\u00e7\u00e3o Aerossol ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":971,
+        "descricao":"Solu\u00e7\u00e3o Gotas",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":964,
+        "descricao":"Solu\u00e7\u00e3o Injet\u00e1vel ",
+        "codFormaFarmaceutica":85,
+        "formaFarmaceutica":"Solu\u00e7\u00e3o injet\u00e1vel im"
+    },
+    {
+        "id":1013,
+        "descricao":"Solu\u00e7\u00e3o Spray",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1021,
+        "descricao":"Solu\u00e7\u00e3o oft\u00e1lmica",
+        "codFormaFarmaceutica":91,
+        "formaFarmaceutica":"Solu\u00e7\u00e3o otol\u00f3gica"
+    },
+    {
+        "id":987,
+        "descricao":"Solu\u00e7\u00e3o p\/ Dilui\u00e7\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":988,
+        "descricao":"Solu\u00e7\u00e3o p\/ Dilui\u00e7\u00e3o Injet\u00e1vel",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":978,
+        "descricao":"Solu\u00e7\u00e3o p\/ Dilui\u00e7\u00e3o p\/ Infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":998,
+        "descricao":"Solu\u00e7\u00e3o p\/ Infus\u00e3o",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1054,
+        "descricao":"Solu\u00e7\u00e3o para Irriga\u00e7\u00e3o",
+        "codFormaFarmaceutica":92,
+        "formaFarmaceutica":"Solu\u00e7\u00e3o para inala\u00e7\u00e3o"
+    },
+    {
+        "id":1019,
+        "descricao":"Solu\u00e7\u00f5es com Esteriliza\u00e7\u00e3o Terminal",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1016,
+        "descricao":"Solu\u00e7\u00f5es parenterais de pequeno volume com prepara\u00e7\u00e3o ass\u00e9ptica",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1049,
+        "descricao":"Suposit\u00f3rio ",
+        "codFormaFarmaceutica":97,
+        "formaFarmaceutica":"Suposit\u00f3rio"
+    },
+    {
+        "id":977,
+        "descricao":"Suspens\u00e3o ",
+        "codFormaFarmaceutica":104,
+        "formaFarmaceutica":"Suspens\u00e3o oral"
+    },
+    {
+        "id":1003,
+        "descricao":"Suspens\u00e3o Aerossol ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1012,
+        "descricao":"Suspens\u00e3o Gotas ",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":974,
+        "descricao":"Suspens\u00e3o Injet\u00e1vel ",
+        "codFormaFarmaceutica":101,
+        "formaFarmaceutica":"Suspens\u00e3o injet\u00e1vel"
+    },
+    {
+        "id":1039,
+        "descricao":"Suspens\u00e3o Injet\u00e1vel de Libera\u00e7\u00e3o Prolongada",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":952,
+        "descricao":"Suspens\u00e3o Spray",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":227,
+        "descricao":"TABLETE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":228,
+        "descricao":"TALA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":229,
+        "descricao":"TINTURA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1023,
+        "descricao":"Tintura",
+        "codFormaFarmaceutica":111,
+        "formaFarmaceutica":"Tintura"
+    },
+    {
+        "id":230,
+        "descricao":"UNGUENTO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":614,
+        "descricao":"VARETA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":231,
+        "descricao":"VELA",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":232,
+        "descricao":"VINHO",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":233,
+        "descricao":"XAROPE",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1004,
+        "descricao":"Xampu",
+        "codFormaFarmaceutica":112,
+        "formaFarmaceutica":"Xampu"
+    },
+    {
+        "id":970,
+        "descricao":"Xarope ",
+        "codFormaFarmaceutica":113,
+        "formaFarmaceutica":"Xarope"
+    },
+    {
+        "id":940,
+        "descricao":"c\u00e1psula dura + comprimido revestido + comprimido revestido",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1017,
+        "descricao":"p\u00f3",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1033,
+        "descricao":"\u00d3leo",
+        "codFormaFarmaceutica":null,
+        "formaFarmaceutica":null
+    },
+    {
+        "id":1044,
+        "descricao":"\u00d3vulo ",
+        "codFormaFarmaceutica":115,
+        "formaFarmaceutica":"\u00d3vulo"
+    }
+]
